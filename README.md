@@ -26,3 +26,28 @@ curl -H 'Host: redeem.apple.com' -H 'Accept: */*'  -H 'User-Agent: Mozilla/5.0 (
 BestBuy (US) 2TB 1 month http://redeem.apple.com/bestbuy
 curl -H 'Host: redeem.apple.com' -H 'Accept: */*'  -H 'User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/604.1' -H 'Accept-Language: en-us' -H 'Referer: http://redeem.apple.com/bestbuy' --compressed 'http://redeem.apple.com/campaigns/5ccc8ec9f1de0c0007f05ca0/call_to_actions/5ccc8ec9f1de0c0007f05c9f/fetch_code?at=missing-sales-rep&captcha=__VAR_CAPTCHA__'
 
+http://redeem.apple.com/vodafoneuk?online
+
+http://redeem.apple.com/viettel?online
+http://redeem.apple.com/fpt
+http://redeem.apple.com/zainbh
+http://redeem.apple.com/momo
+https://redeem.apple.com/cht?web
+https://redeem.apple.com/fet?3Mofficial
+https://redeem.apple.com/twm?website
+https://electrodealpro.com/instructions-on-how-to-get-50gb-of-free-icloud-storage-for-3-months-on-iphone/
+https://finance-app.itunes.apple.com/icloud/storage-promo?offerId=bNnqpw&source=sprint&mt=8
+
+https://finance-app.itunes.apple.com/icloud/storage-promo?offerId=5ccc8ec9f1de0c0007f05c9f&source=sprint&mt=8
+https://redeem.apple.com/kddi
+Music https://redeem.apple.com/msh-es?MSH-ES1835
+Music https://redeem.apple.com/msh-es?MSH-ES3602
+https://redeem.apple.com/msh?MSH-DE20016
+https://redeem.apple.com/msh?MSH-DE03982
+https://redeem.apple.com/msh?MSH-US03982
+https://redeem.apple.com/ais
+https://redeem.apple.com/dtac
+https://redeem.apple.com/truemoveh
+http://redeem.apple.com/zainksa
+http://redeem.apple.com/mts?product
+http://redeem.apple.com/tmobile
