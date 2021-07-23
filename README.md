@@ -5,7 +5,7 @@ http://redeem.apple.com/msh
 https://redeem.apple.com/foodpanda  
 
 https://redeem.apple.com/shopee-tw-music  
-
+https://redeem.apple.com/shopee-tw-tvplus  
 https://redeem.apple.com/shopee-tw-icloud  
 
 https://redeem.apple.com/holiday-au  
@@ -77,3 +77,5 @@ Arcade https://redeem.apple.com/kotsovolos-arcade-5m
 Music https://redeem.apple.com/kotsovolos-am-5m
 https://redeem.apple.com/basta  
 Arcade https://redeem.apple.com/currys?1p4m&2J7Q6ZLT6PZF&email  
+
+http://redeem.apple.com/kojima  
