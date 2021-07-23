@@ -1,7 +1,7 @@
 iCloud US http://redeem.apple.com/bestbuy  
 
 iCloud UK http://redeem.apple.com/vodafoneuk?online  
-Fitness UK https://redeem.apple.com/johnlewiscompetition
+Fitness UK https://redeem.apple.com/johnlewiscompetition  
 Arcade UK https://redeem.apple.com/currys?1p4m&2J7Q6ZLT6PZF&email  
 Music UK https://redeem.apple.com/currys?5m&ZGWGXL97WXUR&email  
 
