@@ -72,7 +72,9 @@ https://redeem.apple.com/msh-nl-online
 https://redeem.apple.com/msh-it  
 https://redeem.apple.com/msh-it-online  
 https://redeem.apple.com/msh-ch  
-https://redeem.apple.com/msh-ch-online  
+https://redeem.apple.com/msh-ch-online
+https://redeem.apple.com/msh-be  
+https://redeem.apple.com/msh-be-online  
 https://redeem.apple.com/msh-pt  
 https://redeem.apple.com/msh-pt-online  
 https://redeem.apple.com/msh-tr  
