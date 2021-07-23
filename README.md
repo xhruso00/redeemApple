@@ -20,7 +20,7 @@ https://redeem.apple.com/msh-nl-online
 https://redeem.apple.com/msh-it  
 https://redeem.apple.com/msh-it-online  
 https://redeem.apple.com/msh-ch  
-https://redeem.apple.com/msh-ch-online
+https://redeem.apple.com/msh-ch-online  
 https://redeem.apple.com/msh-be  
 https://redeem.apple.com/msh-be-online  
 https://redeem.apple.com/msh-pt  
@@ -32,7 +32,7 @@ Taiwan
 https://redeem.apple.com/shopee-tw-music  
 https://redeem.apple.com/shopee-tw-tvplus  
 https://redeem.apple.com/shopee-tw-icloud  
-https://redeem.apple.com/twm?website
+https://redeem.apple.com/twm?website  
 https://redeem.apple.com/cht?web  
 https://redeem.apple.com/fet?3Mofficial  
 
