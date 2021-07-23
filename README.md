@@ -69,7 +69,7 @@ https://redeem.apple.com/msh-at
 https://redeem.apple.com/msh-at-online  
 https://redeem.apple.com/msh-nl  
 https://redeem.apple.com/msh-nl-online  
-https://redeem.apple.com/msh-it
+https://redeem.apple.com/msh-it  
 https://redeem.apple.com/msh-it-online  
 https://redeem.apple.com/msh-pt  
 https://redeem.apple.com/msh-pt-online  
@@ -94,6 +94,7 @@ https://redeem.apple.com/jbhifi-am
 https://redeem.apple.com/johnlewiscompetition  
 
 https://redeem.apple.com/sgtel-arcade  
+https://redeem.apple.com/sgtel-icloud  
 https://redeem.apple.com/shopee-sg-music  
 https://redeem.apple.com/bic-camera  
 
