@@ -7,6 +7,7 @@ Music UK https://redeem.apple.com/currys?5m&ZGWGXL97WXUR&email
 
 Music http://redeem.apple.com/beatssummer2021emeia  
 Music DE https://redeem.apple.com/dblp   
+Arcade DE https://redeem.apple.com/otto-de-arcade-media
 
 MediaMarkt Music  
 https://redeem.apple.com/msh  
@@ -27,6 +28,8 @@ https://redeem.apple.com/msh-pt
 https://redeem.apple.com/msh-pt-online  
 https://redeem.apple.com/msh-tr  
 https://redeem.apple.com/msh-tu-online  
+https://redeem.apple.com/msh-pol
+https://redeem.apple.com/msh-pl-online
 
 Taiwan  
 https://redeem.apple.com/shopee-tw-music  
