@@ -72,7 +72,7 @@ Greece & Cyprus
 Arcade https://redeem.apple.com/kotsovolos-arcade-5m  
 Music https://redeem.apple.com/kotsovolos-am-5m  
 
-Japan
+Japan  
 http://redeem.apple.com/kojima  
 https://redeem.apple.com/sofmap  
 https://redeem.apple.com/bic-camera  
