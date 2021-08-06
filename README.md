@@ -1,6 +1,6 @@
 iCloud US http://redeem.apple.com/bestbuy  
-Music US https://redeem.apple.com/arc
-News US https://redeem.apple.com/applecard
+Music US https://redeem.apple.com/arc  
+News US https://redeem.apple.com/applecard  
 
 iCloud UK http://redeem.apple.com/vodafoneuk?online  
 Fitness UK https://redeem.apple.com/johnlewiscompetition  
@@ -9,7 +9,7 @@ Music UK https://redeem.apple.com/currys?5m&ZGWGXL97WXUR&email
 
 Music http://redeem.apple.com/beatssummer2021emeia  
 Music DE https://redeem.apple.com/dblp   
-Arcade DE https://redeem.apple.com/otto-de-arcade-media
+Arcade DE https://redeem.apple.com/otto-de-arcade-media  
 
 MediaMarkt Music  
 https://redeem.apple.com/msh  
