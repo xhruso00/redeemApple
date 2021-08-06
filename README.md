@@ -1,4 +1,6 @@
 iCloud US http://redeem.apple.com/bestbuy  
+Music US https://redeem.apple.com/arc
+News US https://redeem.apple.com/applecard
 
 iCloud UK http://redeem.apple.com/vodafoneuk?online  
 Fitness UK https://redeem.apple.com/johnlewiscompetition  
@@ -38,6 +40,7 @@ https://redeem.apple.com/shopee-tw-icloud
 https://redeem.apple.com/twm?website  
 https://redeem.apple.com/cht?web  
 https://redeem.apple.com/fet?3Mofficial  
+https://redeem.apple.com/cub
 
 Singapore  
 https://redeem.apple.com/sgtel-arcade  
@@ -73,6 +76,7 @@ Japan
 http://redeem.apple.com/kojima  
 https://redeem.apple.com/sofmap  
 https://redeem.apple.com/bic-camera  
+https://redeem.apple.com/itunesoffer-jp  
 
 Australia NZ  
 https://redeem.apple.com/tgg-am?4m&PLAL2XUDJ4RA&email&utm_source=Cheetah&utm_medium=Email&utm_content=RedeemNow&utm_campaign=WK35THUCONCIERGEAPPLEMUSICEDM  
