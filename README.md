@@ -6,6 +6,7 @@ News US https://redeem.apple.com/applecard
 iCloud UK http://redeem.apple.com/vodafoneuk?online  
 Fitness UK https://redeem.apple.com/johnlewiscompetition  
 Arcade UK https://redeem.apple.com/currys?1p4m&2J7Q6ZLT6PZF&email  
+Arcade UK https://redeem.apple.com/ee-arcade?hb&24RM73Q2TXQR&SMS  
 Music UK https://redeem.apple.com/currys?5m&ZGWGXL97WXUR&email  
 TV UK https://redeem.apple.com/ee-tv?hb&24RM73Q2TXQR&SMS  
 
