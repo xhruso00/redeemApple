@@ -1,7 +1,6 @@
 iCloud US http://redeem.apple.com/bestbuy  
 Music US https://redeem.apple.com/arc  
-  
-Music US http://redeem.apple.com/beatssummer2021amr
+Music US http://redeem.apple.com/beatssummer2021amr  
 News US https://redeem.apple.com/applecard  
 
 iCloud UK http://redeem.apple.com/vodafoneuk?online  
