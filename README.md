@@ -69,6 +69,8 @@ Russia
 http://redeem.apple.com/mts?product  
 https://redeem.apple.com/restore-ru?iCloud4m  
 https://redeem.apple.com/basta  
+https://redeem.apple.com/svasnoymusicinstore
+https://redeem.apple.com/svasnoyarcadeinstore
 
 Greece & Cyprus  
 Arcade https://redeem.apple.com/kotsovolos-arcade-5m  
