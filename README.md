@@ -1,6 +1,7 @@
 iCloud US http://redeem.apple.com/bestbuy  
 Music US https://redeem.apple.com/arc  
 Music US http://redeem.apple.com/beatssummer2021amr  
+Music US http://redeem.apple.com/musicartists-amr  (No more free codes?)  
 News US https://redeem.apple.com/applecard  
 
 iCloud UK http://redeem.apple.com/vodafoneuk?online  
@@ -81,6 +82,16 @@ http://redeem.apple.com/kojima
 https://redeem.apple.com/sofmap  
 https://redeem.apple.com/bic-camera  
 https://redeem.apple.com/itunesoffer-jp  
+http://redeem.apple.com/musicartists-jp  
+
+Malaysia/HK/SG/TW Music
+http://redeem.apple.com/cpopartist-sea  
+
+Korea  
+https://redeem.apple.com/kkp  
+
+China  
+http://redeem.apple.com/musicartists-cn  
 
 Australia NZ  
 https://redeem.apple.com/tgg-am?4m&PLAL2XUDJ4RA&email&utm_source=Cheetah&utm_medium=Email&utm_content=RedeemNow&utm_campaign=WK35THUCONCIERGEAPPLEMUSICEDM  
