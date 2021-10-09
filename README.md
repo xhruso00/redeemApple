@@ -11,12 +11,12 @@ Arcade UK https://redeem.apple.com/currys?1p4m&2J7Q6ZLT6PZF&email
 Music UK https://redeem.apple.com/currys?5m&ZGWGXL97WXUR&email  
 
 Music https://redeem.apple.com/itunesoffer-emeia  
-Music https://redeem.apple.com/itunesoffer-emeia2 
+Music https://redeem.apple.com/itunesoffer-emeia2   
 Music http://redeem.apple.com/musicartists-emeia  
 Music http://redeem.apple.com/beatssummer2021emeia  
 Music DE https://redeem.apple.com/dblp   
-Music DE https://redeem.apple.com/pblanding
-Arcade DE https://redeem.apple.com/otto-de-arcade-media  
+Music DE https://redeem.apple.com/pblanding    
+Arcade DE https://redeem.apple.com/otto-de-arcade-media    
 
 MediaMarkt Music  
 https://redeem.apple.com/msh  
