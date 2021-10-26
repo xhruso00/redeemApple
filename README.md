@@ -37,7 +37,7 @@ https://redeem.apple.com/msh-pt
 https://redeem.apple.com/msh-pt-online  
 https://redeem.apple.com/msh-tr  
 https://redeem.apple.com/msh-tu-online  
-https://redeem.apple.com/msh-pol
+https://redeem.apple.com/msh-pol  
 https://redeem.apple.com/msh-pl-online  
 
 Taiwan  
