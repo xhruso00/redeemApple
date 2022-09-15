@@ -17,6 +17,9 @@ Music http://redeem.apple.com/beatssummer2021emeia
 Music DE https://redeem.apple.com/dblp   
 Music DE https://redeem.apple.com/pblanding    
 Arcade DE https://redeem.apple.com/otto-de-arcade-media    
+Fitness DE https://redeem.apple.com/mshde-fitness    
+TV DE https://redeem.apple.com/mshde-tv    
+iCloud DE https://redeem.apple.com/mshde-icloud    
 
 MediaMarkt Music  
 https://redeem.apple.com/msh  
