@@ -97,7 +97,8 @@ http://redeem.apple.com/cpopartist-sea
 
 Korea  
 https://redeem.apple.com/kkp  
-https://redeem.apple.com/kakaopay-ko  
+https://redeem.apple.com/kakaopay-ko
+http://redeem.apple.com/kakaopaykrtvmar22
 
 China  
 http://redeem.apple.com/musicartists-cn  
