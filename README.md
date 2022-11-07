@@ -128,6 +128,10 @@ https://redeem.apple.com/tgg-am?4m&PLAL2XUDJ4RA&email&utm_source=Cheetah&utm_med
 https://redeem.apple.com/westfield  
 https://redeem.apple.com/jbhifi-am  
 
+TV
+http://redeem.apple.com/atvselena-emeia  
+http://redeem.apple.com/atvselena   
+
 Telstra (AUS) http://redeem.apple.com/telstra  
 curl -H 'Host: redeem.apple.com' -H 'If-None-Match: W/"032155477e7dba81349ae4f434676159"' -H 'Accept: */*' -H 'User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/604.1' -H 'Accept-Language: en-us' -H 'Referer: http://redeem.apple.com/telstra' --compressed 'http://redeem.apple.com/campaigns/5f7d05cf13878000073b6da8/call_to_actions/5f7d05d013878000073b6da9/fetch_code?at=missing-sales-rep&captcha=__VAR_CAPTCHA__'  
 
