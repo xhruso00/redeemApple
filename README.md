@@ -76,6 +76,9 @@ https://redeem.apple.com/truemoveh
 https://redeem.apple.com/studio7-music
 https://redeem.apple.com/studio7-icloud
 https://redeem.apple.com/studio7-arcade
+https://redeem.apple.com/banana-icloud
+https://redeem.apple.com/banana-arcade
+https://redeem.apple.com/banana-music
 
 Russia  
 http://redeem.apple.com/mts?product  
@@ -109,6 +112,16 @@ http://redeem.apple.com/musicartists-cn
 
 HK
 https://redeem.apple.com/csl1010
+
+Brasil
+https://redeem.apple.com/iplace?3M&XXXX&origin
+https://redeem.apple.com/iplace?1+2mo&XXXX&origin
+https://redeem.apple.com/iplace?1+2M&XXXX&origin
+https://redeem.apple.com/iplace?1+2months&XXXX&origin
+https://redeem.apple.com/iplace?3months&XXXX&origin
+
+France
+https://redeem.apple.com/fnac-am-store
 
 Australia NZ  
 https://redeem.apple.com/tgg-am?4m&PLAL2XUDJ4RA&email&utm_source=Cheetah&utm_medium=Email&utm_content=RedeemNow&utm_campaign=WK35THUCONCIERGEAPPLEMUSICEDM  
