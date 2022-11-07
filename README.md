@@ -72,7 +72,10 @@ http://redeem.apple.com/fpt
 Thailand iCloud  
 https://redeem.apple.com/ais  
 https://redeem.apple.com/dtac  
-https://redeem.apple.com/truemoveh  
+https://redeem.apple.com/truemoveh
+https://redeem.apple.com/studio7-music
+https://redeem.apple.com/studio7-icloud
+https://redeem.apple.com/studio7-arcade
 
 Russia  
 http://redeem.apple.com/mts?product  
@@ -98,10 +101,14 @@ http://redeem.apple.com/cpopartist-sea
 Korea  
 https://redeem.apple.com/kkp  
 https://redeem.apple.com/kakaopay-ko
-http://redeem.apple.com/kakaopaykrtvmar22
+https://redeem.apple.com/kakaopaykrtvmar22
+https://redeem.apple.com/skt
 
 China  
 http://redeem.apple.com/musicartists-cn  
+
+HK
+https://redeem.apple.com/csl1010
 
 Australia NZ  
 https://redeem.apple.com/tgg-am?4m&PLAL2XUDJ4RA&email&utm_source=Cheetah&utm_medium=Email&utm_content=RedeemNow&utm_campaign=WK35THUCONCIERGEAPPLEMUSICEDM  
