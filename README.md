@@ -56,6 +56,7 @@ Singapore
 https://redeem.apple.com/sgtel-arcade  
 https://redeem.apple.com/sgtel-icloud  
 https://redeem.apple.com/shopee-sg-music  
+https://redeem.apple.com/sgtel-tv
 
 Malaysia iCloud  
 http://redeem.apple.com/celcom  
