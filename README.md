@@ -20,9 +20,9 @@ Arcade DE https://redeem.apple.com/otto-de-arcade-media
 Fitness DE https://redeem.apple.com/mshde-fitness    
 TV DE https://redeem.apple.com/mshde-tv    
 iCloud DE https://redeem.apple.com/mshde-icloud    
-Fitness ES https://redeem.apple.com/msh-esp-fitness
-Arcade ES https://redeem.apple.com/msh-esp-arcade
-TV ES https://redeem.apple.com/msh-esp-tv
+Fitness ES https://redeem.apple.com/msh-esp-fitness    
+Arcade ES https://redeem.apple.com/msh-esp-arcade    
+TV ES https://redeem.apple.com/msh-esp-tv    
 
 MediaMarkt Music  
 https://redeem.apple.com/msh  
