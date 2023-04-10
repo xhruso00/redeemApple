@@ -78,20 +78,20 @@ http://redeem.apple.com/fpt
 Thailand iCloud  
 https://redeem.apple.com/ais  
 https://redeem.apple.com/dtac  
-https://redeem.apple.com/truemoveh
-https://redeem.apple.com/studio7-music
-https://redeem.apple.com/studio7-icloud
-https://redeem.apple.com/studio7-arcade
-https://redeem.apple.com/banana-icloud
-https://redeem.apple.com/banana-arcade
-https://redeem.apple.com/banana-music
+https://redeem.apple.com/truemoveh    
+https://redeem.apple.com/studio7-music    
+https://redeem.apple.com/studio7-icloud    
+https://redeem.apple.com/studio7-arcade    
+https://redeem.apple.com/banana-icloud    
+https://redeem.apple.com/banana-arcade    
+https://redeem.apple.com/banana-music    
 
 Russia  
 http://redeem.apple.com/mts?product  
 https://redeem.apple.com/restore-ru?iCloud4m  
 https://redeem.apple.com/basta  
-https://redeem.apple.com/svasnoymusicinstore
-https://redeem.apple.com/svasnoyarcadeinstore
+https://redeem.apple.com/svasnoymusicinstore    
+https://redeem.apple.com/svasnoyarcadeinstore    
 
 Greece & Cyprus  
 Arcade https://redeem.apple.com/kotsovolos-arcade-5m  
@@ -119,14 +119,14 @@ http://redeem.apple.com/musicartists-cn
 HK
 https://redeem.apple.com/csl1010
 
-Brasil
-https://redeem.apple.com/iplace?3M&XXXX&origin
-https://redeem.apple.com/iplace?1+2mo&XXXX&origin
-https://redeem.apple.com/iplace?1+2M&XXXX&origin
-https://redeem.apple.com/iplace?1+2months&XXXX&origin
-https://redeem.apple.com/iplace?3months&XXXX&origin
+Brasil  
+https://redeem.apple.com/iplace?3M&XXXX&origin    
+https://redeem.apple.com/iplace?1+2mo&XXXX&origin    
+https://redeem.apple.com/iplace?1+2M&XXXX&origin    
+https://redeem.apple.com/iplace?1+2months&XXXX&origin    
+https://redeem.apple.com/iplace?3months&XXXX&origin    
 
-France
+France  
 https://redeem.apple.com/fnac-am-store
 
 Australia NZ  
