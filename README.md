@@ -4,6 +4,8 @@ Music US http://redeem.apple.com/beatssummer2021amr
 Music CA https://redeem.apple.com/beatssummer2021ca    
 Music US http://redeem.apple.com/musicartists-amr  (No more free codes?)  
 News US https://redeem.apple.com/applecard  
+Music US https://redeem.apple.com/aamusicoffer  
+Music UK https://redeem.apple.com/barclaysmusic2m    
 
 iCloud UK http://redeem.apple.com/vodafoneuk?online  
 Fitness UK https://redeem.apple.com/johnlewiscompetition  
@@ -23,6 +25,7 @@ iCloud DE https://redeem.apple.com/mshde-icloud
 Fitness ES https://redeem.apple.com/msh-esp-fitness    
 Arcade ES https://redeem.apple.com/msh-esp-arcade    
 TV ES https://redeem.apple.com/msh-esp-tv    
+TV AU https://redeem.apple.com/roktappletv-aus    
 
 MediaMarkt Music  
 https://redeem.apple.com/msh  
@@ -134,6 +137,16 @@ https://redeem.apple.com/jbhifi-am
 TV
 http://redeem.apple.com/atvselena-emeia  
 http://redeem.apple.com/atvselena   
+https://redeem.apple.com/appletvrealmadrid-emeia    
+https://redeem.apple.com/appletvrealmadrid    
+https://redeem.apple.com/mlbfnb2motvus  
+https://redeem.apple.com/roktappletv  
+
+Thailand    
+https://redeem.apple.com/banana-music    
+
+
+https://redeem.apple.com/csl1010    
 
 Telstra (AUS) http://redeem.apple.com/telstra  
 curl -H 'Host: redeem.apple.com' -H 'If-None-Match: W/"032155477e7dba81349ae4f434676159"' -H 'Accept: */*' -H 'User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/604.1' -H 'Accept-Language: en-us' -H 'Referer: http://redeem.apple.com/telstra' --compressed 'http://redeem.apple.com/campaigns/5f7d05cf13878000073b6da8/call_to_actions/5f7d05d013878000073b6da9/fetch_code?at=missing-sales-rep&captcha=__VAR_CAPTCHA__'  
